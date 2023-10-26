@@ -1,0 +1,39 @@
+.container_form_perfil{
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+.container_avatar{
+	display: flex;
+	align-items: center;
+	justify-content: space-evenly;
+}
+.container_names{
+	display: flex;
+	flex-direction: row;
+	width: 80%;
+	gap: 2rem;
+	justify-content: space-between;
+}
+.container_data_form1{
+	display: flex;
+	flex-direction: row;
+	width: 80%;
+	gap: 2rem;
+	justify-content: space-between;
+}
+.container_data_form2{
+	display: flex;
+	flex-direction: column;
+	width: 50%;
+	gap: 1rem;
+	justify-content: space-between;
+}
+.button_back{
+	display: flex;
+	width: 95%;
+	cursor: pointer;
+}
+
